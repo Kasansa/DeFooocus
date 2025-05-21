@@ -38,6 +38,8 @@
         "CyberRealisticPony_V7a.safetensors": "https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V7a.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "realisitic_hips.safetensors":"https://civitai.com/api/download/models/1177711?type=Model&format=SafeTensor"
+    },
     "previous_default_models": []
 }
