@@ -1,0 +1,46 @@
+{
+    "default_model": "WAI-NSFW-illustrious-SDXL.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 6.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
+    "default_styles": [],
+    "default_aspect_ratio": "896*1152",
+    "default_overwrite_step": -2,
+    "checkpoint_downloads": {
+        "illustrous.safetensors": "https://civitai.com/api/download/models/1761560?token=c3ee7e4c5c6734e3e6c8c149f30b1fe4"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {
+        "realisitic_hips.safetensors":"https://civitai.com/api/download/models/1177711?token=c3ee7e4c5c6734e3e6c8c149f30b1fe4",
+      "ingoth.safetensors":"https://civitai.com/api/download/models/1189052?token=c3ee7e4c5c6734e3e6c8c149f30b1fe4"
+    },
+    "previous_default_models": []
+}
